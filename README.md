@@ -2,8 +2,8 @@
 A machine learning model for generating song lyrics using advanced neural network techniques. This model leverages Bi-directional LSTM to create coherent and creative lyrics in various styles.
 
 ## Table of Contents
-- [General Steps](#general steps)
-- [Implementation Details](#implementation details)
+- [General Steps](#general-steps)
+- [Implementation Details](#implementation-details)
 - [Example](#example)
 - [Applications](#applications)
 - [Contact](#contact)
